@@ -1,0 +1,25 @@
+
+body{
+        background-color:rgb(45, 116, 152);
+}
+div{
+        height: 100px;
+}
+h1{
+        color: greenyellow;
+        font-family: 'Times New Roman', Times, serif;
+}
+h2{
+        color: yellow;
+        border-right: solid 70px purple;
+        font-family: 'Times New Roman', Times, serif;
+}
+h3{
+        color: black;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h4{
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
